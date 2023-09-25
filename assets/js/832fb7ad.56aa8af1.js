@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcs421_f23_source=self.webpackChunkcs421_f23_source||[]).push([[770],{5331:s=>{s.exports=JSON.parse('{"permalink":"/cs421/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
